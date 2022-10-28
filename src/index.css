@@ -1,8 +1,15 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Karla:wght@200;300&family=Rubik+Mono+One&display=swap');
 
 *{
   background-color: black;
+}
+h1{
+  font-family: 'Rubik Mono One', sans-serif;
+}
 
+p{
+  font-family: 'Karla', sans-serif;
 }
