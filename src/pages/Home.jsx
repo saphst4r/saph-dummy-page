@@ -10,7 +10,7 @@ export default function Home() {
             </div> 
 
             <h1 className='text-white font-md text-5xl md:text-[90px] mt-6 md:mt-10'>SAPH.CO</h1>
-            <p className='text-white text-md mt-2 md:mt-6'>Hello to the bois in OG</p>
+            <p className='text-white text-md md:text-2xl mt-2 md:mt-6'>Hello to the bois in OG</p>
         </section>
 
     </div>
